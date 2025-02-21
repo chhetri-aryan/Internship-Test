@@ -10,6 +10,9 @@ This repository contains a Flask application deployed in a **GitHub Codespace**,
 - Returns **Top Command Output** (System usage details)
 - Runs on **Port 5000** with **Public Visibility**
 
+## Screenshot
+![Image](https://github.com/user-attachments/assets/33cd0b8b-0a60-4955-a541-3331369f1809)
+
 ## 🛠️ Setup & Deployment
 ### **1. Create and Start a Codespace**
 1. Go to [GitHub Codespaces](https://github.com/codespaces) and create a new codespace.
